@@ -11,7 +11,17 @@ Perfect for learning Rust basics like structs, enums, `match`, user input, and t
 - Simple terminal UI
 - Built with safe, efficient Rust code
 
+## How to Run
+Clone the repo:
 
+git clone https://github.com/surenidh/rust.git
+
+cd rust/to-do-items
+
+## Run
+Build and run the game: cargo run
+
+## Demo
 To Do App!
 1. Add todo
 2. List todos
