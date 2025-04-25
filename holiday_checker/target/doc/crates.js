@@ -1,0 +1,2 @@
+window.ALL_CRATES = ["chrono","holiday_checker","itoa","memchr","num_traits","proc_macro2","quote","ryu","serde","serde_derive","serde_json","syn","unicode_ident","windows_link"];
+//{"start":21,"fragment_lengths":[8,18,7,9,13,14,8,6,8,15,13,6,16,15]}

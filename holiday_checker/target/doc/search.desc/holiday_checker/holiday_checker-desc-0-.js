@@ -1,0 +1,1 @@
+searchState.loadedDescShard("holiday_checker", 0, "Returns the argument unchanged.\nReturns the argument unchanged.\nget all holidays\nget holidays by date\nget holidays by category\nget all holidays by month\nget all holidays by type\nCalls <code>U::from(self)</code>.\nCalls <code>U::from(self)</code>.\ncheck the date whether holiday or not\nfunction to read from a JSON file")

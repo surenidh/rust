@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["load_holidays_from_file"],"struct":["Holiday","HolidayData"]};

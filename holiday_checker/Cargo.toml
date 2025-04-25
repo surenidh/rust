@@ -1,0 +1,27 @@
+[package]
+name = "holiday_checker"
+version = "0.1.3"
+edition = "2024"
+author = "sureni Dhanasekara surenidh@gmail.com"
+license = "MIT"
+description = "A crate for managing and querying holiday data, including filtering by date, type, and category and whether date is a holiday from a JSON file."
+readme = "README.md"
+repository = "https://github.com/surenidh/rust/tree/holiday-crate/holiday_checker"
+keywords = ["holiday", "calendar", "2025", "poya"]
+categories = ["date-and-time", "command-line-utilities"]
+documentation = "https://docs.rs/holiday_checker/"
+exclude = [
+  "target/*",
+  "tests/*",
+  "examples/*",
+  "docs/*"
+]
+
+[dependencies]
+serde = { version="1.0", features=["derive"]}
+serde_json = "1.0"
+chrono ={ version="0.4", features=["serde"]}
+
+[lib]
+name = "holiday_checker"
+path = "src/lib.rs"

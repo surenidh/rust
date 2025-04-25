@@ -1,0 +1,1 @@
+C:\Users\Sanija\ Methsen\Desktop\crate\holiday_checker\target\package\holiday_checker-0.1.0\target\debug\libholiday_checker.rlib: C:\Users\Sanija\ Methsen\Desktop\crate\holiday_checker\target\package\holiday_checker-0.1.0\src\holiday.rs C:\Users\Sanija\ Methsen\Desktop\crate\holiday_checker\target\package\holiday_checker-0.1.0\src\lib.rs
